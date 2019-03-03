@@ -1,0 +1,147 @@
+[30-Jan-2019 10:40:38 Asia/Kolkata] PHP Notice:  Undefined index: classid in /home/myidfgbs/public_html/apps/admin/teacher/getsection.php on line 3
+[30-Jan-2019 11:03:37 Asia/Kolkata] PHP Notice:  Undefined index: classid in /home/myidfgbs/public_html/apps/admin/teacher/getsection.php on line 3
+[30-Jan-2019 11:27:07 Asia/Kolkata] PHP Notice:  Undefined index: section in /home/myidfgbs/public_html/apps/admin/teacher/add.php on line 46
+[09-Feb-2019 21:18:41 Asia/Kolkata] PHP Notice:  Undefined index: classid in /home/myidfgbs/public_html/apps/admin/teacher/getsection.php on line 3
+[11-Feb-2019 10:02:57 Asia/Kolkata] PHP Notice:  Undefined index: section in /home/myidfgbs/public_html/apps/admin/teacher/add.php on line 40
+[14-Feb-2019 16:52:00 Asia/Kolkata] PHP Notice:  Undefined index: photo in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 32
+[14-Feb-2019 16:52:01 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 160
+[14-Feb-2019 16:52:01 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 160
+[14-Feb-2019 16:52:01 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 164
+[14-Feb-2019 16:52:01 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 164
+[14-Feb-2019 16:52:01 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 168
+[14-Feb-2019 16:52:01 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 168
+[14-Feb-2019 16:52:01 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 178
+[14-Feb-2019 16:52:01 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 178
+[14-Feb-2019 16:52:01 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 179
+[14-Feb-2019 16:52:01 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 179
+[14-Feb-2019 16:52:01 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 180
+[14-Feb-2019 16:52:01 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 180
+[14-Feb-2019 16:52:26 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 160
+[14-Feb-2019 16:52:26 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 160
+[14-Feb-2019 16:52:26 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 164
+[14-Feb-2019 16:52:26 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 164
+[14-Feb-2019 16:52:26 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 168
+[14-Feb-2019 16:52:26 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 168
+[14-Feb-2019 16:52:26 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 178
+[14-Feb-2019 16:52:26 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 178
+[14-Feb-2019 16:52:26 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 179
+[14-Feb-2019 16:52:26 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 179
+[14-Feb-2019 16:52:26 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 180
+[14-Feb-2019 16:52:26 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 180
+[14-Feb-2019 16:53:42 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 160
+[14-Feb-2019 16:53:42 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 160
+[14-Feb-2019 16:53:42 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 164
+[14-Feb-2019 16:53:42 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 164
+[14-Feb-2019 16:53:42 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 168
+[14-Feb-2019 16:53:42 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 168
+[14-Feb-2019 16:53:42 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 178
+[14-Feb-2019 16:53:42 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 178
+[14-Feb-2019 16:53:42 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 179
+[14-Feb-2019 16:53:42 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 179
+[14-Feb-2019 16:53:42 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 180
+[14-Feb-2019 16:53:42 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 180
+[14-Feb-2019 16:54:27 Asia/Kolkata] PHP Notice:  Undefined index: photo in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 32
+[14-Feb-2019 16:54:28 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 160
+[14-Feb-2019 16:54:28 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 160
+[14-Feb-2019 16:54:28 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 164
+[14-Feb-2019 16:54:28 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 164
+[14-Feb-2019 16:54:28 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 168
+[14-Feb-2019 16:54:28 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 168
+[14-Feb-2019 16:54:28 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 178
+[14-Feb-2019 16:54:28 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 178
+[14-Feb-2019 16:54:28 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 179
+[14-Feb-2019 16:54:28 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 179
+[14-Feb-2019 16:54:28 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 180
+[14-Feb-2019 16:54:28 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 180
+[14-Feb-2019 16:56:46 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 160
+[14-Feb-2019 16:56:46 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 160
+[14-Feb-2019 16:56:46 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 164
+[14-Feb-2019 16:56:46 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 164
+[14-Feb-2019 16:56:46 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 168
+[14-Feb-2019 16:56:46 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 168
+[14-Feb-2019 16:56:46 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 178
+[14-Feb-2019 16:56:46 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 178
+[14-Feb-2019 16:56:46 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 179
+[14-Feb-2019 16:56:46 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 179
+[14-Feb-2019 16:56:46 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 180
+[14-Feb-2019 16:56:46 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 180
+[14-Feb-2019 16:58:00 Asia/Kolkata] PHP Notice:  Undefined index: photo in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 32
+[14-Feb-2019 16:58:07 Asia/Kolkata] PHP Notice:  Undefined index: photo in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 32
+[14-Feb-2019 16:59:24 Asia/Kolkata] PHP Notice:  Undefined index: photo in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 32
+[14-Feb-2019 16:59:48 Asia/Kolkata] PHP Notice:  Undefined index: photo in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 32
+[14-Feb-2019 17:01:23 Asia/Kolkata] PHP Notice:  Undefined index: photo in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 32
+[14-Feb-2019 17:02:10 Asia/Kolkata] PHP Notice:  Undefined index: photo in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 32
+[14-Feb-2019 17:02:46 Asia/Kolkata] PHP Notice:  Undefined index: photo in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 32
+[14-Feb-2019 17:03:06 Asia/Kolkata] PHP Notice:  Undefined index: photo in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 32
+[14-Feb-2019 17:31:41 Asia/Kolkata] PHP Notice:  Undefined index: photo in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 32
+[14-Feb-2019 17:31:51 Asia/Kolkata] PHP Notice:  Undefined index: photo in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 32
+[14-Feb-2019 17:34:01 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 160
+[14-Feb-2019 17:34:01 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 160
+[14-Feb-2019 17:34:01 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 164
+[14-Feb-2019 17:34:01 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 164
+[14-Feb-2019 17:34:01 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 168
+[14-Feb-2019 17:34:01 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 168
+[14-Feb-2019 17:34:01 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 172
+[14-Feb-2019 17:34:01 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 172
+[14-Feb-2019 17:34:01 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 178
+[14-Feb-2019 17:34:01 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 178
+[14-Feb-2019 17:34:01 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 179
+[14-Feb-2019 17:34:01 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 179
+[14-Feb-2019 17:34:01 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 180
+[14-Feb-2019 17:34:01 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 180
+[14-Feb-2019 17:34:50 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 160
+[14-Feb-2019 17:34:50 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 160
+[14-Feb-2019 17:34:50 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 164
+[14-Feb-2019 17:34:50 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 164
+[14-Feb-2019 17:34:50 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 168
+[14-Feb-2019 17:34:50 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 168
+[14-Feb-2019 17:34:50 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 172
+[14-Feb-2019 17:34:50 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 172
+[14-Feb-2019 17:34:50 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 178
+[14-Feb-2019 17:34:50 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 178
+[14-Feb-2019 17:34:50 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 179
+[14-Feb-2019 17:34:50 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 179
+[14-Feb-2019 17:34:50 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 180
+[14-Feb-2019 17:34:50 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 180
+[14-Feb-2019 17:34:54 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 160
+[14-Feb-2019 17:34:54 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 160
+[14-Feb-2019 17:34:54 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 164
+[14-Feb-2019 17:34:54 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 164
+[14-Feb-2019 17:34:54 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 168
+[14-Feb-2019 17:34:54 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 168
+[14-Feb-2019 17:34:54 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 172
+[14-Feb-2019 17:34:54 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 172
+[14-Feb-2019 17:34:54 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 178
+[14-Feb-2019 17:34:54 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 178
+[14-Feb-2019 17:34:54 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 179
+[14-Feb-2019 17:34:54 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 179
+[14-Feb-2019 17:34:54 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 180
+[14-Feb-2019 17:34:54 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 180
+[14-Feb-2019 17:35:00 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 160
+[14-Feb-2019 17:35:00 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 160
+[14-Feb-2019 17:35:00 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 164
+[14-Feb-2019 17:35:00 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 164
+[14-Feb-2019 17:35:00 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 168
+[14-Feb-2019 17:35:00 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 168
+[14-Feb-2019 17:35:00 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 172
+[14-Feb-2019 17:35:00 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 172
+[14-Feb-2019 17:35:00 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 178
+[14-Feb-2019 17:35:00 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 178
+[14-Feb-2019 17:35:00 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 179
+[14-Feb-2019 17:35:00 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 179
+[14-Feb-2019 17:35:00 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 180
+[14-Feb-2019 17:35:00 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 180
+[14-Feb-2019 17:35:11 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 160
+[14-Feb-2019 17:35:11 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 160
+[14-Feb-2019 17:35:11 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 164
+[14-Feb-2019 17:35:11 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 164
+[14-Feb-2019 17:35:11 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 168
+[14-Feb-2019 17:35:11 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 168
+[14-Feb-2019 17:35:11 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 172
+[14-Feb-2019 17:35:11 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 172
+[14-Feb-2019 17:35:11 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 178
+[14-Feb-2019 17:35:11 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 178
+[14-Feb-2019 17:35:11 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 179
+[14-Feb-2019 17:35:11 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 179
+[14-Feb-2019 17:35:11 Asia/Kolkata] PHP Notice:  Undefined variable: teacher in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 180
+[14-Feb-2019 17:35:11 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/myidfgbs/public_html/apps/admin/teacher/edit.php on line 180

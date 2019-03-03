@@ -1,0 +1,131 @@
+[21-Jan-2019 18:48:00 Asia/Kolkata] PHP Notice:  Undefined index: class in /home/myidfgbs/public_html/app/admin/students/edit.php on line 19
+[21-Jan-2019 18:48:00 Asia/Kolkata] PHP Notice:  Undefined index: section in /home/myidfgbs/public_html/app/admin/students/edit.php on line 20
+[21-Jan-2019 18:48:00 Asia/Kolkata] PHP Notice:  Undefined index: dob in /home/myidfgbs/public_html/app/admin/students/edit.php on line 26
+[21-Jan-2019 18:48:00 Asia/Kolkata] PHP Notice:  Undefined index: bloodgrp in /home/myidfgbs/public_html/app/admin/students/edit.php on line 27
+[21-Jan-2019 18:49:00 Asia/Kolkata] PHP Notice:  Undefined index: class in /home/myidfgbs/public_html/app/admin/students/edit.php on line 19
+[21-Jan-2019 18:49:00 Asia/Kolkata] PHP Notice:  Undefined index: section in /home/myidfgbs/public_html/app/admin/students/edit.php on line 20
+[21-Jan-2019 18:49:00 Asia/Kolkata] PHP Notice:  Undefined index: dob in /home/myidfgbs/public_html/app/admin/students/edit.php on line 26
+[21-Jan-2019 18:49:00 Asia/Kolkata] PHP Notice:  Undefined index: bloodgrp in /home/myidfgbs/public_html/app/admin/students/edit.php on line 27
+[21-Jan-2019 18:50:39 Asia/Kolkata] PHP Notice:  Undefined index: class in /home/myidfgbs/public_html/app/admin/students/edit.php on line 19
+[21-Jan-2019 18:50:39 Asia/Kolkata] PHP Notice:  Undefined index: section in /home/myidfgbs/public_html/app/admin/students/edit.php on line 20
+[21-Jan-2019 18:52:08 Asia/Kolkata] PHP Notice:  Undefined index: class in /home/myidfgbs/public_html/app/admin/students/edit.php on line 19
+[21-Jan-2019 18:52:08 Asia/Kolkata] PHP Notice:  Undefined index: section in /home/myidfgbs/public_html/app/admin/students/edit.php on line 20
+[21-Jan-2019 18:53:47 Asia/Kolkata] PHP Notice:  Undefined index: class in /home/myidfgbs/public_html/app/admin/students/edit.php on line 19
+[21-Jan-2019 18:53:47 Asia/Kolkata] PHP Notice:  Undefined index: section in /home/myidfgbs/public_html/app/admin/students/edit.php on line 20
+[12-Feb-2019 20:11:27 Asia/Kolkata] PHP Notice:  Undefined index: pincode in /home/myidfgbs/public_html/apps/admin/students/add.php on line 23
+[12-Feb-2019 20:14:05 Asia/Kolkata] PHP Notice:  Undefined index: pincode in /home/myidfgbs/public_html/apps/admin/students/add.php on line 23
+[12-Feb-2019 23:46:47 Asia/Kolkata] PHP Notice:  Undefined index: pincode in /home/myidfgbs/public_html/apps/admin/students/add.php on line 23
+[13-Feb-2019 13:12:01 Asia/Kolkata] PHP Notice:  Undefined index: schooladmin in /home/myidfgbs/public_html/apps/admin/students/import.php on line 13
+[13-Feb-2019 13:12:01 Asia/Kolkata] PHP Notice:  Undefined index: schooladmin in /home/myidfgbs/public_html/apps/admin/students/import.php on line 202
+[13-Feb-2019 13:12:01 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/apps/admin/students/import.php on line 204
+[13-Feb-2019 13:12:12 Asia/Kolkata] PHP Notice:  Undefined index: schooladmin in /home/myidfgbs/public_html/apps/admin/students/import.php on line 202
+[13-Feb-2019 13:12:12 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/apps/admin/students/import.php on line 204
+[13-Feb-2019 13:43:24 Asia/Kolkata] PHP Warning:  move_uploaded_file(../../assets/uploads/excel/students/Play.xlsx): failed to open stream: No such file or directory in /home/myidfgbs/public_html/apps/admin/students/import.php on line 20
+[13-Feb-2019 13:43:24 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpyaqGI3' to '../../assets/uploads/excel/students/Play.xlsx' in /home/myidfgbs/public_html/apps/admin/students/import.php on line 20
+[13-Feb-2019 13:43:24 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'SpreadsheetReader: File (../../assets/uploads/excel/students/Play.xlsx) not readable' in /home/myidfgbs/public_html/apps/vendor/SpreadsheetReader.php:44
+Stack trace:
+#0 /home/myidfgbs/public_html/apps/admin/students/import.php(22): SpreadsheetReader->__construct('../../assets/up...')
+#1 {main}
+  thrown in /home/myidfgbs/public_html/apps/vendor/SpreadsheetReader.php on line 44
+[13-Feb-2019 13:43:52 Asia/Kolkata] PHP Warning:  move_uploaded_file(../../assets/uploads/excel/students/Play.xlsx): failed to open stream: No such file or directory in /home/myidfgbs/public_html/apps/admin/students/import.php on line 20
+[13-Feb-2019 13:43:52 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAMueS2' to '../../assets/uploads/excel/students/Play.xlsx' in /home/myidfgbs/public_html/apps/admin/students/import.php on line 20
+[13-Feb-2019 13:43:52 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'SpreadsheetReader: File (../../assets/uploads/excel/students/Play.xlsx) not readable' in /home/myidfgbs/public_html/apps/vendor/SpreadsheetReader.php:44
+Stack trace:
+#0 /home/myidfgbs/public_html/apps/admin/students/import.php(22): SpreadsheetReader->__construct('../../assets/up...')
+#1 {main}
+  thrown in /home/myidfgbs/public_html/apps/vendor/SpreadsheetReader.php on line 44
+[13-Feb-2019 13:51:13 Asia/Kolkata] PHP Warning:  move_uploaded_file(../../assets/uploads/excel/students/Nursery.xlsx): failed to open stream: No such file or directory in /home/myidfgbs/public_html/apps/admin/students/import.php on line 20
+[13-Feb-2019 13:51:13 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phplt5vQ8' to '../../assets/uploads/excel/students/Nursery.xlsx' in /home/myidfgbs/public_html/apps/admin/students/import.php on line 20
+[13-Feb-2019 13:51:13 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'SpreadsheetReader: File (../../assets/uploads/excel/students/Nursery.xlsx) not readable' in /home/myidfgbs/public_html/apps/vendor/SpreadsheetReader.php:44
+Stack trace:
+#0 /home/myidfgbs/public_html/apps/admin/students/import.php(22): SpreadsheetReader->__construct('../../assets/up...')
+#1 {main}
+  thrown in /home/myidfgbs/public_html/apps/vendor/SpreadsheetReader.php on line 44
+[13-Feb-2019 13:57:19 Asia/Kolkata] PHP Warning:  move_uploaded_file(../../assets/uploads/excel/students/Nursery.xlsx): failed to open stream: No such file or directory in /home/myidfgbs/public_html/apps/admin/students/import.php on line 20
+[13-Feb-2019 13:57:19 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpr4S3TA' to '../../assets/uploads/excel/students/Nursery.xlsx' in /home/myidfgbs/public_html/apps/admin/students/import.php on line 20
+[13-Feb-2019 13:57:19 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'SpreadsheetReader: File (../../assets/uploads/excel/students/Nursery.xlsx) not readable' in /home/myidfgbs/public_html/apps/vendor/SpreadsheetReader.php:44
+Stack trace:
+#0 /home/myidfgbs/public_html/apps/admin/students/import.php(22): SpreadsheetReader->__construct('../../assets/up...')
+#1 {main}
+  thrown in /home/myidfgbs/public_html/apps/vendor/SpreadsheetReader.php on line 44
+[13-Feb-2019 13:58:21 Asia/Kolkata] PHP Warning:  move_uploaded_file(../../assets/uploads/excel/students/Nursery.xlsx): failed to open stream: No such file or directory in /home/myidfgbs/public_html/apps/admin/students/import.php on line 20
+[13-Feb-2019 13:58:21 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php2yyOBK' to '../../assets/uploads/excel/students/Nursery.xlsx' in /home/myidfgbs/public_html/apps/admin/students/import.php on line 20
+[13-Feb-2019 13:58:21 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'SpreadsheetReader: File (../../assets/uploads/excel/students/Nursery.xlsx) not readable' in /home/myidfgbs/public_html/apps/vendor/SpreadsheetReader.php:44
+Stack trace:
+#0 /home/myidfgbs/public_html/apps/admin/students/import.php(22): SpreadsheetReader->__construct('../../assets/up...')
+#1 {main}
+  thrown in /home/myidfgbs/public_html/apps/vendor/SpreadsheetReader.php on line 44
+[13-Feb-2019 14:12:00 Asia/Kolkata] PHP Warning:  move_uploaded_file(../../assets/uploads/excel/students/students.xlsx): failed to open stream: No such file or directory in /home/myidfgbs/public_html/apps/admin/students/import.php on line 20
+[13-Feb-2019 14:12:00 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpy0n4lw' to '../../assets/uploads/excel/students/students.xlsx' in /home/myidfgbs/public_html/apps/admin/students/import.php on line 20
+[13-Feb-2019 14:12:00 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'SpreadsheetReader: File (../../assets/uploads/excel/students/students.xlsx) not readable' in /home/myidfgbs/public_html/apps/vendor/SpreadsheetReader.php:44
+Stack trace:
+#0 /home/myidfgbs/public_html/apps/admin/students/import.php(22): SpreadsheetReader->__construct('../../assets/up...')
+#1 {main}
+  thrown in /home/myidfgbs/public_html/apps/vendor/SpreadsheetReader.php on line 44
+[13-Feb-2019 14:14:25 Asia/Kolkata] PHP Warning:  move_uploaded_file(../../assets/uploads/excel/students/students.xlsx): failed to open stream: No such file or directory in /home/myidfgbs/public_html/apps/admin/students/import.php on line 20
+[13-Feb-2019 14:14:25 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpGRVQPB' to '../../assets/uploads/excel/students/students.xlsx' in /home/myidfgbs/public_html/apps/admin/students/import.php on line 20
+[13-Feb-2019 14:14:25 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'SpreadsheetReader: File (../../assets/uploads/excel/students/students.xlsx) not readable' in /home/myidfgbs/public_html/apps/vendor/SpreadsheetReader.php:44
+Stack trace:
+#0 /home/myidfgbs/public_html/apps/admin/students/import.php(22): SpreadsheetReader->__construct('../../assets/up...')
+#1 {main}
+  thrown in /home/myidfgbs/public_html/apps/vendor/SpreadsheetReader.php on line 44
+[13-Feb-2019 14:19:43 Asia/Kolkata] PHP Warning:  move_uploaded_file(../../assets/uploads/excel/students/students.xlsx): failed to open stream: No such file or directory in /home/myidfgbs/public_html/apps/admin/students/import.php on line 20
+[13-Feb-2019 14:19:43 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpj4Mi1R' to '../../assets/uploads/excel/students/students.xlsx' in /home/myidfgbs/public_html/apps/admin/students/import.php on line 20
+[13-Feb-2019 14:19:43 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'SpreadsheetReader: File (../../assets/uploads/excel/students/students.xlsx) not readable' in /home/myidfgbs/public_html/apps/vendor/SpreadsheetReader.php:44
+Stack trace:
+#0 /home/myidfgbs/public_html/apps/admin/students/import.php(22): SpreadsheetReader->__construct('../../assets/up...')
+#1 {main}
+  thrown in /home/myidfgbs/public_html/apps/vendor/SpreadsheetReader.php on line 44
+[13-Feb-2019 14:22:51 Asia/Kolkata] PHP Warning:  move_uploaded_file(../../assets/uploads/excel/students/students.xlsx): failed to open stream: No such file or directory in /home/myidfgbs/public_html/apps/admin/students/import.php on line 20
+[13-Feb-2019 14:22:51 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phptXTvPu' to '../../assets/uploads/excel/students/students.xlsx' in /home/myidfgbs/public_html/apps/admin/students/import.php on line 20
+[13-Feb-2019 14:22:51 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'SpreadsheetReader: File (../../assets/uploads/excel/students/students.xlsx) not readable' in /home/myidfgbs/public_html/apps/vendor/SpreadsheetReader.php:44
+Stack trace:
+#0 /home/myidfgbs/public_html/apps/admin/students/import.php(22): SpreadsheetReader->__construct('../../assets/up...')
+#1 {main}
+  thrown in /home/myidfgbs/public_html/apps/vendor/SpreadsheetReader.php on line 44
+[13-Feb-2019 14:30:02 Asia/Kolkata] PHP Notice:  Undefined index: schooladmin in /home/myidfgbs/public_html/apps/admin/students/import.php on line 203
+[13-Feb-2019 14:30:02 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/apps/admin/students/import.php on line 205
+[13-Feb-2019 14:30:18 Asia/Kolkata] PHP Notice:  Undefined index: schooladmin in /home/myidfgbs/public_html/apps/admin/students/import.php on line 203
+[13-Feb-2019 14:30:18 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/apps/admin/students/import.php on line 205
+[13-Feb-2019 14:30:26 Asia/Kolkata] PHP Notice:  Undefined index: schooladmin in /home/myidfgbs/public_html/apps/admin/students/import.php on line 203
+[13-Feb-2019 14:30:26 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/apps/admin/students/import.php on line 205
+[13-Feb-2019 17:26:08 Asia/Kolkata] PHP Notice:  Undefined index: schooladmin in /home/myidfgbs/public_html/apps/admin/students/import.php on line 203
+[13-Feb-2019 17:26:08 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/apps/admin/students/import.php on line 205
+[13-Feb-2019 17:26:17 Asia/Kolkata] PHP Notice:  Undefined index: schooladmin in /home/myidfgbs/public_html/apps/admin/students/import.php on line 203
+[13-Feb-2019 17:26:17 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/apps/admin/students/import.php on line 205
+[13-Feb-2019 17:26:25 Asia/Kolkata] PHP Notice:  Undefined index: schooladmin in /home/myidfgbs/public_html/apps/admin/students/import.php on line 203
+[13-Feb-2019 17:26:25 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/apps/admin/students/import.php on line 205
+[13-Feb-2019 17:26:48 Asia/Kolkata] PHP Notice:  Undefined index: schooladmin in /home/myidfgbs/public_html/apps/admin/students/import.php on line 203
+[13-Feb-2019 17:26:48 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/apps/admin/students/import.php on line 205
+[13-Feb-2019 17:26:56 Asia/Kolkata] PHP Notice:  Undefined index: schooladmin in /home/myidfgbs/public_html/apps/admin/students/import.php on line 203
+[13-Feb-2019 17:26:56 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/apps/admin/students/import.php on line 205
+[13-Feb-2019 17:27:01 Asia/Kolkata] PHP Notice:  Undefined index: schooladmin in /home/myidfgbs/public_html/apps/admin/students/import.php on line 203
+[13-Feb-2019 17:27:01 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/apps/admin/students/import.php on line 205
+[14-Feb-2019 16:14:16 Asia/Kolkata] PHP Notice:  Undefined index: pincode in /home/myidfgbs/public_html/apps/admin/students/add.php on line 23
+[14-Feb-2019 16:15:10 Asia/Kolkata] PHP Notice:  Undefined index: del in /home/myidfgbs/public_html/apps/admin/students/list.php on line 44
+[14-Feb-2019 16:15:10 Asia/Kolkata] PHP Notice:  Undefined variable: dex in /home/myidfgbs/public_html/apps/admin/students/list.php on line 50
+[14-Feb-2019 16:15:13 Asia/Kolkata] PHP Notice:  Undefined index: del in /home/myidfgbs/public_html/apps/admin/students/list.php on line 44
+[14-Feb-2019 16:15:13 Asia/Kolkata] PHP Notice:  Undefined variable: dex in /home/myidfgbs/public_html/apps/admin/students/list.php on line 50
+[14-Feb-2019 16:16:52 Asia/Kolkata] PHP Notice:  Undefined index: del in /home/myidfgbs/public_html/apps/admin/students/list.php on line 44
+[14-Feb-2019 16:16:52 Asia/Kolkata] PHP Notice:  Undefined variable: dex in /home/myidfgbs/public_html/apps/admin/students/list.php on line 50
+[17-Feb-2019 13:10:39 Asia/Kolkata] PHP Notice:  Undefined index: pincode in /home/myidfgbs/public_html/apps/admin/students/add.php on line 23
+[18-Feb-2019 21:56:15 Asia/Kolkata] PHP Notice:  Undefined index: pincode in /home/myidfgbs/public_html/apps/admin/students/add.php on line 23
+[19-Feb-2019 09:57:22 Asia/Kolkata] PHP Notice:  Undefined index: del in /home/myidfgbs/public_html/apps/admin/students/list.php on line 44
+[19-Feb-2019 09:57:22 Asia/Kolkata] PHP Notice:  Undefined variable: dex in /home/myidfgbs/public_html/apps/admin/students/list.php on line 50
+[19-Feb-2019 16:15:01 Asia/Kolkata] PHP Notice:  Undefined index: del in /home/myidfgbs/public_html/apps/admin/students/list.php on line 44
+[19-Feb-2019 16:15:01 Asia/Kolkata] PHP Notice:  Undefined variable: dex in /home/myidfgbs/public_html/apps/admin/students/list.php on line 50
+[19-Feb-2019 17:46:16 Asia/Kolkata] PHP Notice:  Undefined index: del in /home/myidfgbs/public_html/apps/admin/students/list.php on line 44
+[19-Feb-2019 17:46:16 Asia/Kolkata] PHP Notice:  Undefined variable: dex in /home/myidfgbs/public_html/apps/admin/students/list.php on line 50
+[19-Feb-2019 17:49:25 Asia/Kolkata] PHP Notice:  Undefined index: del in /home/myidfgbs/public_html/apps/admin/students/list.php on line 44
+[19-Feb-2019 17:49:25 Asia/Kolkata] PHP Notice:  Undefined variable: dex in /home/myidfgbs/public_html/apps/admin/students/list.php on line 50
+[19-Feb-2019 21:42:48 Asia/Kolkata] PHP Notice:  Undefined index: pincode in /home/myidfgbs/public_html/apps/admin/students/add.php on line 23
+[19-Feb-2019 21:48:56 Asia/Kolkata] PHP Notice:  Undefined index: pincode in /home/myidfgbs/public_html/apps/admin/students/add.php on line 23
+[20-Feb-2019 08:18:02 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/apps/admin/students/unassigned.php on line 178
+[20-Feb-2019 08:18:35 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/apps/admin/students/unassigned.php on line 178
+[20-Feb-2019 08:20:04 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/apps/admin/students/unassigned.php on line 178
+[20-Feb-2019 08:20:38 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/apps/admin/students/unassigned.php on line 178
+[20-Feb-2019 08:21:15 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/apps/admin/students/unassigned.php on line 178
+[24-Feb-2019 08:57:27 Asia/Kolkata] PHP Notice:  Undefined index: pincode in /home/myidfgbs/public_html/apps/admin/students/add.php on line 23
+[24-Feb-2019 09:06:35 Asia/Kolkata] PHP Notice:  Undefined index: pincode in /home/myidfgbs/public_html/apps/admin/students/add.php on line 23
+[26-Feb-2019 23:00:51 Asia/Kolkata] PHP Notice:  Undefined index: del in /home/myidfgbs/public_html/apps/admin/students/list.php on line 44
+[26-Feb-2019 23:00:51 Asia/Kolkata] PHP Notice:  Undefined variable: dex in /home/myidfgbs/public_html/apps/admin/students/list.php on line 50

@@ -1,0 +1,8 @@
+[09-Jan-2019 18:35:08 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ipmstczh/dwwapps.com/homework/admin/payment/list.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/ipmstczh/dwwapps.com/homework/admin/payment/list.php on line 72
+[09-Jan-2019 18:35:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ipmstczh/dwwapps.com/homework/admin/payment/list.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/ipmstczh/dwwapps.com/homework/admin/payment/list.php on line 72

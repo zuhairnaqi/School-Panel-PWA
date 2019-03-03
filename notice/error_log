@@ -1,0 +1,67 @@
+[07-Jan-2019 15:13:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/ipmstczh/dwwapps.com/dwwhomework/admin/notice/getstudent.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ipmstczh/dwwapps.com/dwwhomework/admin/notice/getstudent.php on line 7
+[22-Jan-2019 08:29:19 Asia/Kolkata] PHP Notice:  Undefined index: students in /home/myidfgbs/public_html/app/admin/notice/noticeadd.php on line 32
+[08-Feb-2019 21:16:59 Asia/Kolkata] PHP Notice:  Undefined variable: total1 in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 45
+[08-Feb-2019 21:19:45 Asia/Kolkata] PHP Notice:  Undefined variable: total1 in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 45
+[08-Feb-2019 21:21:07 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 67
+[08-Feb-2019 21:21:07 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 67
+[08-Feb-2019 21:22:17 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 67
+[08-Feb-2019 21:22:17 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 67
+[09-Feb-2019 10:05:23 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 68
+[09-Feb-2019 10:05:23 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 68
+[09-Feb-2019 10:06:48 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 68
+[09-Feb-2019 10:06:48 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 68
+[09-Feb-2019 10:25:38 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 70
+[09-Feb-2019 10:25:38 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 70
+[09-Feb-2019 10:26:17 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 70
+[09-Feb-2019 10:26:17 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 70
+[09-Feb-2019 10:26:42 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 70
+[09-Feb-2019 10:26:42 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 70
+[09-Feb-2019 10:27:49 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 70
+[09-Feb-2019 10:27:49 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 70
+[09-Feb-2019 10:32:13 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 70
+[09-Feb-2019 10:32:13 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 70
+[09-Feb-2019 10:38:36 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 70
+[09-Feb-2019 10:38:36 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 70
+[09-Feb-2019 10:48:50 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 82
+[09-Feb-2019 10:49:55 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 82
+[09-Feb-2019 10:50:54 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 82
+[09-Feb-2019 10:53:45 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 82
+[09-Feb-2019 10:56:12 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 82
+[09-Feb-2019 10:56:55 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 82
+[09-Feb-2019 10:57:37 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 82
+[09-Feb-2019 10:58:38 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 82
+[09-Feb-2019 10:58:56 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 82
+[09-Feb-2019 10:59:58 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 82
+[09-Feb-2019 12:22:46 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 82
+[09-Feb-2019 12:23:51 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 82
+[09-Feb-2019 15:55:36 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 82
+[09-Feb-2019 16:08:49 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 82
+[12-Feb-2019 10:04:29 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/homeworkapp/admin/notice/noticeadd.php on line 81
+[13-Feb-2019 15:01:31 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 81
+[18-Feb-2019 22:12:58 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 81
+[18-Feb-2019 22:43:43 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 81
+[19-Feb-2019 08:30:41 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/apps/admin/notice/noticelist.php on line 183
+[19-Feb-2019 09:43:07 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 81
+[19-Feb-2019 09:43:07 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 81
+[19-Feb-2019 17:47:47 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 81
+[19-Feb-2019 19:59:13 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 81
+[19-Feb-2019 20:33:09 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 81
+[19-Feb-2019 20:38:23 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 81
+[19-Feb-2019 20:45:54 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 81
+[19-Feb-2019 20:46:30 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 81
+[19-Feb-2019 20:47:16 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 81
+[19-Feb-2019 21:30:44 Asia/Kolkata] PHP Notice:  Undefined index: students in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 35
+[19-Feb-2019 21:30:44 Asia/Kolkata] PHP Notice:  Undefined variable: ex1 in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 41
+[19-Feb-2019 21:59:05 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 81
+[20-Feb-2019 10:05:36 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 81
+[20-Feb-2019 10:23:59 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 82
+[20-Feb-2019 10:24:54 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 82
+[20-Feb-2019 10:43:57 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 82
+[24-Feb-2019 09:01:07 Asia/Kolkata] PHP Notice:  Undefined index: students in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 36
+[24-Feb-2019 09:01:08 Asia/Kolkata] PHP Notice:  Undefined variable: ex1 in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 42
+[24-Feb-2019 09:07:43 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 82
+[25-Feb-2019 22:09:40 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/apps/admin/notice/noticelist.php on line 183
+[27-Feb-2019 07:29:00 Asia/Kolkata] PHP Notice:  Undefined index: document in /home/myidfgbs/public_html/apps/admin/notice/noticeadd.php on line 82

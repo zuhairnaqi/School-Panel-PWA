@@ -1,0 +1,301 @@
+[09-Jan-2019 18:46:59 Asia/Kolkata] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; OLERead has a deprecated constructor in /home/ipmstczh/dwwapps.com/homework/vendor/php-excel-reader/excel_reader2.php on line 95
+[09-Jan-2019 18:46:59 Asia/Kolkata] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Spreadsheet_Excel_Reader has a deprecated constructor in /home/ipmstczh/dwwapps.com/homework/vendor/php-excel-reader/excel_reader2.php on line 312
+[09-Jan-2019 22:47:57 Asia/Kolkata] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; OLERead has a deprecated constructor in /home/ipmstczh/dwwapps.com/homework/vendor/php-excel-reader/excel_reader2.php on line 95
+[09-Jan-2019 22:47:57 Asia/Kolkata] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Spreadsheet_Excel_Reader has a deprecated constructor in /home/ipmstczh/dwwapps.com/homework/vendor/php-excel-reader/excel_reader2.php on line 312
+[11-Jan-2019 17:19:29 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[11-Jan-2019 18:32:25 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[12-Jan-2019 13:10:08 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[12-Jan-2019 17:39:50 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[12-Jan-2019 18:28:50 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[12-Jan-2019 18:28:55 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[12-Jan-2019 18:40:44 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[12-Jan-2019 20:04:47 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[13-Jan-2019 08:13:15 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[13-Jan-2019 16:49:37 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[16-Jan-2019 10:27:59 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[17-Jan-2019 20:49:24 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[18-Jan-2019 21:13:28 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[18-Jan-2019 21:36:59 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[20-Jan-2019 21:22:01 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[20-Jan-2019 21:22:17 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[20-Jan-2019 21:25:01 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[21-Jan-2019 16:43:16 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[21-Jan-2019 16:49:23 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[21-Jan-2019 18:47:37 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[21-Jan-2019 19:51:38 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[21-Jan-2019 19:51:38 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[21-Jan-2019 19:51:45 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[21-Jan-2019 19:51:45 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[21-Jan-2019 19:51:56 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[21-Jan-2019 20:55:59 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[22-Jan-2019 07:53:03 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[22-Jan-2019 11:23:02 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[22-Jan-2019 15:10:13 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[22-Jan-2019 15:18:28 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[22-Jan-2019 15:18:53 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[22-Jan-2019 23:02:25 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[23-Jan-2019 15:55:59 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[23-Jan-2019 15:56:10 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[23-Jan-2019 15:56:15 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[23-Jan-2019 16:37:23 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[23-Jan-2019 16:37:48 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[23-Jan-2019 16:37:58 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[23-Jan-2019 16:39:12 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[25-Jan-2019 15:09:32 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[25-Jan-2019 15:09:32 Asia/Kolkata] PHP Notice:  Undefined variable: parents in /home/myidfgbs/public_html/app/admin/parent/add.php on line 20
+[25-Jan-2019 15:09:32 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/app/admin/parent/add.php on line 37
+[25-Jan-2019 15:09:32 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/app/admin/parent/add.php on line 149
+[25-Jan-2019 15:10:38 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[25-Jan-2019 15:10:38 Asia/Kolkata] PHP Notice:  Undefined variable: parents in /home/myidfgbs/public_html/app/admin/parent/add.php on line 20
+[25-Jan-2019 15:10:38 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/app/admin/parent/add.php on line 150
+[25-Jan-2019 15:11:12 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[25-Jan-2019 15:11:12 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/app/admin/parent/add.php on line 150
+[25-Jan-2019 15:11:54 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[25-Jan-2019 15:11:54 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/app/admin/parent/add.php on line 149
+[25-Jan-2019 15:13:50 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[25-Jan-2019 15:13:50 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/app/admin/parent/add.php on line 37
+[25-Jan-2019 15:14:26 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[25-Jan-2019 15:16:49 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[25-Jan-2019 15:16:49 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/app/admin/parent/add.php on line 149
+[25-Jan-2019 15:16:59 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[25-Jan-2019 15:16:59 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/app/admin/parent/add.php on line 149
+[25-Jan-2019 18:49:17 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[25-Jan-2019 18:49:17 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/app/admin/parent/add.php on line 149
+[26-Jan-2019 16:10:16 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[26-Jan-2019 16:10:16 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/app/admin/parent/add.php on line 37
+[26-Jan-2019 16:11:21 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[26-Jan-2019 16:11:21 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/app/admin/parent/add.php on line 149
+[26-Jan-2019 16:42:57 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[26-Jan-2019 20:44:56 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[26-Jan-2019 20:44:56 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/app/admin/parent/add.php on line 149
+[27-Jan-2019 20:31:57 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[27-Jan-2019 20:31:57 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/app/admin/parent/add.php on line 149
+[27-Jan-2019 20:31:58 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[27-Jan-2019 20:31:58 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/app/admin/parent/add.php on line 37
+[27-Jan-2019 20:32:11 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[27-Jan-2019 20:32:11 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/app/admin/parent/add.php on line 149
+[27-Jan-2019 20:32:20 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[27-Jan-2019 20:32:20 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/app/admin/parent/add.php on line 37
+[27-Jan-2019 20:32:21 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[27-Jan-2019 20:32:21 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/app/admin/parent/add.php on line 37
+[27-Jan-2019 20:34:44 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/myidfgbs/public_html/app/admin/parent/add.php on line 16
+[29-Jan-2019 23:06:51 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 148
+[29-Jan-2019 23:10:05 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 148
+[29-Jan-2019 23:13:36 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 148
+[30-Jan-2019 16:42:13 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 53
+[30-Jan-2019 16:59:22 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 55
+[30-Jan-2019 18:28:10 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 55
+[30-Jan-2019 18:35:42 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 55
+[05-Feb-2019 15:17:29 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 60
+[07-Feb-2019 15:20:19 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 60
+[08-Feb-2019 15:37:47 Asia/Kolkata] PHP Fatal error:  Undefined constant 'n' in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 39
+[08-Feb-2019 15:51:24 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 62
+[08-Feb-2019 16:13:21 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 179
+[08-Feb-2019 16:15:50 Asia/Kolkata] PHP Notice:  Undefined variable: msg1 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 47
+[08-Feb-2019 16:15:50 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 182
+[08-Feb-2019 16:17:21 Asia/Kolkata] PHP Notice:  Undefined variable: msg1 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 47
+[08-Feb-2019 16:17:21 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 182
+[08-Feb-2019 16:19:16 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 66
+[08-Feb-2019 16:19:43 Asia/Kolkata] PHP Notice:  Undefined variable: msg1 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 47
+[08-Feb-2019 16:19:43 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 182
+[08-Feb-2019 16:23:08 Asia/Kolkata] PHP Notice:  Undefined variable: msg1 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 47
+[08-Feb-2019 16:23:08 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 182
+[08-Feb-2019 16:26:38 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 180
+[08-Feb-2019 06:00:57 America/New_York] PHP Parse error:  syntax error, unexpected 't' (T_STRING) in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 99
+[08-Feb-2019 16:32:06 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 180
+[08-Feb-2019 16:37:09 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 180
+[08-Feb-2019 16:49:48 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.ptechsms.co.in/app/smsapi/index.php?username=myidfgbs_homework1&amp;password=123456&amp;campaign=XXXXXX&amp;routeid=XXXX&amp;type=text&amp;contacts=$mobileno[$i]&amp;senderid=SMCITY&amp;msg=Download swaraj public school Android App https://play.google.com/store/apps/details?id=school. myideal.intel.myidealschoolSign in and add Student detailSchool ID- 15 Reg. Mobile No.-9999441747Password -9999441747): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 51
+[08-Feb-2019 16:49:48 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 192
+[08-Feb-2019 17:01:07 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.ptechsms.co.in/app/smsapi/index.php?username=myidfgbs_homework1&amp;password=123456&amp;campaign=5774&amp;routeid=100457&amp;type=text&amp;contacts=$mobileno[$i]&amp;senderid=SMCITY&amp;msg=Download $schoolsname Android App https://play.google.com/store/apps/details?id=school. myideal.intel.myidealschool&quot;.&quot;Sign in and add Student detail&quot;.&quot;School ID- $school &quot;.&quot;Reg. Mobile No.-$mobileno[$i]&quot;.&quot;Password -$mobileno[$i]): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 51
+[08-Feb-2019 17:01:07 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 192
+[08-Feb-2019 17:37:12 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.ptechsms.co.in/app/smsapi/index.php?username=udemo&amp;password=123456&amp;campaign=5774&amp;routeid=100457&amp;type=text&amp;contacts=9999441747&amp;senderid=SMCITY&amp;msg=Download $schoolsname Android App https://play.google.com/store/apps/details?id=school. myideal.intel.myidealschool&quot;.&quot;Sign in and add Student detail&quot;.&quot;School ID- $school &quot;.&quot;Reg. Mobile No.-&quot;$mobileno[$i]&quot;.&quot;Password -$mobileno[$i]): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 51
+[08-Feb-2019 17:37:12 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 192
+[08-Feb-2019 17:40:01 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.ptechsms.co.in/app/smsapi/index.php?username=udemo&amp;password=123456&amp;campaign=5774&amp;routeid=100457&amp;type=text&amp;contacts=9999441747&amp;senderid=SMCITY&amp;msg=Download $schoolsname Android App https://play.google.com/store/apps/details?id=school. myideal.intel.myidealschool&quot;.&quot;Sign in and add Student detail&quot;.&quot;School ID- $school &quot;.&quot;Reg. Mobile No.-&quot;$mobileno[$i]&quot;.&quot;Password -$mobileno[$i]): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 51
+[08-Feb-2019 17:40:01 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.ptechsms.co.in/app/smsapi/index.php?username=udemo&amp;password=123456&amp;campaign=5774&amp;routeid=100457&amp;type=text&amp;contacts=9999441747&amp;senderid=SMCITY&amp;msg=Download $schoolsname Android App https://play.google.com/store/apps/details?id=school. myideal.intel.myidealschool&quot;.&quot;Sign in and add Student detail&quot;.&quot;School ID- $school &quot;.&quot;Reg. Mobile No.-&quot;$mobileno[$i]&quot;.&quot;Password -$mobileno[$i]): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 51
+[08-Feb-2019 17:40:02 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.ptechsms.co.in/app/smsapi/index.php?username=udemo&amp;password=123456&amp;campaign=5774&amp;routeid=100457&amp;type=text&amp;contacts=9999441747&amp;senderid=SMCITY&amp;msg=Download $schoolsname Android App https://play.google.com/store/apps/details?id=school. myideal.intel.myidealschool&quot;.&quot;Sign in and add Student detail&quot;.&quot;School ID- $school &quot;.&quot;Reg. Mobile No.-&quot;$mobileno[$i]&quot;.&quot;Password -$mobileno[$i]): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 51
+[08-Feb-2019 17:40:02 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.ptechsms.co.in/app/smsapi/index.php?username=udemo&amp;password=123456&amp;campaign=5774&amp;routeid=100457&amp;type=text&amp;contacts=9999441747&amp;senderid=SMCITY&amp;msg=Download $schoolsname Android App https://play.google.com/store/apps/details?id=school. myideal.intel.myidealschool&quot;.&quot;Sign in and add Student detail&quot;.&quot;School ID- $school &quot;.&quot;Reg. Mobile No.-&quot;$mobileno[$i]&quot;.&quot;Password -$mobileno[$i]): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 51
+[08-Feb-2019 17:40:02 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 192
+[08-Feb-2019 17:51:40 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.ptechsms.co.in/app/smsapi/index.php?username=udemo&amp;password=123456&amp;campaign=5774&amp;routeid=100457&amp;type=text&amp;contacts=9999441747&amp;senderid=SMCITY&amp;msg=Download $schoolsname Android App https://play.google.com/store/apps/details?id=school. myideal.intel.myidealschool&quot;.&quot;Sign in and add Student detail&quot;.&quot;School ID- $school &quot;.&quot;Reg. Mobile No.-&quot;$mobileno[$i]&quot;.&quot;Password -$mobileno[$i]): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 51
+[08-Feb-2019 17:51:40 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.ptechsms.co.in/app/smsapi/index.php?username=udemo&amp;password=123456&amp;campaign=5774&amp;routeid=100457&amp;type=text&amp;contacts=9999441747&amp;senderid=SMCITY&amp;msg=Download $schoolsname Android App https://play.google.com/store/apps/details?id=school. myideal.intel.myidealschool&quot;.&quot;Sign in and add Student detail&quot;.&quot;School ID- $school &quot;.&quot;Reg. Mobile No.-&quot;$mobileno[$i]&quot;.&quot;Password -$mobileno[$i]): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 51
+[08-Feb-2019 17:51:40 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.ptechsms.co.in/app/smsapi/index.php?username=udemo&amp;password=123456&amp;campaign=5774&amp;routeid=100457&amp;type=text&amp;contacts=9999441747&amp;senderid=SMCITY&amp;msg=Download $schoolsname Android App https://play.google.com/store/apps/details?id=school. myideal.intel.myidealschool&quot;.&quot;Sign in and add Student detail&quot;.&quot;School ID- $school &quot;.&quot;Reg. Mobile No.-&quot;$mobileno[$i]&quot;.&quot;Password -$mobileno[$i]): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 51
+[08-Feb-2019 17:51:40 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 192
+[08-Feb-2019 17:53:14 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.ptechsms.co.in/app/smsapi/index.php?username=udemo&amp;password=123456&amp;campaign=5774&amp;routeid=100457&amp;type=text&amp;contacts=9999441747&amp;senderid=SMCITY&amp;msg=Download $schoolsname Android App https://play.google.com/store/apps/details?id=school. myideal.intel.myidealschool&quot;.&quot;Sign in and add Student detail&quot;.&quot;School ID- $school &quot;.&quot;Reg. Mobile No.-&quot;$mobileno[$i]&quot;.&quot;Password -$mobileno[$i]): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 51
+[08-Feb-2019 17:53:14 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.ptechsms.co.in/app/smsapi/index.php?username=udemo&amp;password=123456&amp;campaign=5774&amp;routeid=100457&amp;type=text&amp;contacts=9999441747&amp;senderid=SMCITY&amp;msg=Download $schoolsname Android App https://play.google.com/store/apps/details?id=school. myideal.intel.myidealschool&quot;.&quot;Sign in and add Student detail&quot;.&quot;School ID- $school &quot;.&quot;Reg. Mobile No.-&quot;$mobileno[$i]&quot;.&quot;Password -$mobileno[$i]): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 51
+[08-Feb-2019 17:53:14 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 192
+[08-Feb-2019 18:04:39 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.ptechsms.co.in/app/smsapi/index.php?username=udemo&amp;password=123456&amp;campaign=5774&amp;routeid=100457&amp;type=text&amp;contacts=9999441747&amp;senderid=SMCITY&amp;msg=Download $schoolsname Android App https://play.google.com/store/apps/details?id=school. myideal.intel.myidealschool&quot;.&quot;Sign in and add Student detail&quot;.&quot;School ID- $school &quot;.&quot;Reg. Mobile No.-&quot;$mobileno[$i]&quot;.&quot;Password -$mobileno[$i]): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 51
+[08-Feb-2019 18:04:39 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 192
+[08-Feb-2019 18:14:02 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.ptechsms.co.in/app/smsapi/index.php?username=udemo&amp;password=123456&amp;campaign=5774&amp;routeid=100457&amp;type=text&amp;contacts=8160568319&amp;senderid=SMCITY&amp;msg=Download swaraj public school Android App https://play.google.com/store/apps/details?id=school.myideal.intel.myidealschool, Sign in and add Student detail, School ID- 15 , Reg. Mobile No.-8160568319 , Password -8160568319): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 52
+[08-Feb-2019 18:14:02 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 193
+[09-Feb-2019 10:12:51 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.ptechsms.co.in/app/smsapi/index.php?username=udemo&amp;password=123456&amp;campaign=5774&amp;routeid=100457&amp;type=text&amp;contacts=9558088109&amp;senderid=SMCITY&amp;msg=Download swaraj public school Android App https://play.google.com/store/apps/details?id=school.myideal.intel.myidealschool, Sign in and add Student detail, School ID- 15 , Reg. Mobile No.-9558088109 , Password -9558088109): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 52
+[09-Feb-2019 10:12:51 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 193
+[09-Feb-2019 11:12:13 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.ptechsms.co.in/app/smsapi/index.php?username=udemo&amp;password=123456&amp;campaign=5774&amp;routeid=100457&amp;type=text&amp;contacts=8141160462&amp;senderid=SMCITY&amp;msg=Download swaraj public school Android App https://play.google.com/store/apps/details?id=school.myideal.intel.myidealschool, Sign in and add Student detail, School ID- 15 , Reg. Mobile No.-8141160462 , Password -8141160462): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 52
+[09-Feb-2019 11:12:13 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 193
+[09-Feb-2019 14:03:50 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.ptechsms.co.in/app/smsapi/index.php?username=myideal&amp;password=123456&amp;campaign=5774&amp;routeid=100457&amp;type=text&amp;contacts=8863014435&amp;senderid=SMCITY&amp;msg=Download swaraj public school Android App https://play.google.com/store/apps/details?id=school.myideal.intel.myidealschool, Sign in and add Student detail, School ID- 15 , Reg. Mobile No.-8863014435 , Password -8863014435): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 52
+[09-Feb-2019 14:03:50 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 193
+[09-Feb-2019 16:30:02 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.ptechsms.co.in/app/smsapi/index.php?username=myidfgbs_homework1&amp;password=123456&amp;campaign=XXXXXX&amp;routeid=XXXX&amp;type=text&amp;contacts=8160568319&amp;senderid=SENDER ID&amp;msg=Download+swaraj+public+school+Android+App+https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dschool.myideal.intel.myidealschool%2C+Sign+in+and+add+Student+detail%2C+School+ID-+15+%2C+Reg.+Mobile+No.-8160568319+%2C+Password+-8160568319): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 52
+[09-Feb-2019 16:30:02 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 195
+[09-Feb-2019 16:31:20 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 195
+[09-Feb-2019 17:03:20 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 195
+[09-Feb-2019 17:06:36 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 195
+[09-Feb-2019 17:18:45 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 195
+[09-Feb-2019 17:21:48 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 195
+[09-Feb-2019 17:29:30 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 195
+[09-Feb-2019 17:31:14 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 195
+[09-Feb-2019 17:42:40 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 79
+[09-Feb-2019 17:43:22 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 195
+[09-Feb-2019 18:13:56 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 195
+[09-Feb-2019 18:14:41 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 195
+[09-Feb-2019 21:30:04 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 195
+[10-Feb-2019 10:22:58 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 195
+[11-Feb-2019 18:41:28 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/homeworkapp/admin/parent/add.php on line 178
+[12-Feb-2019 09:48:58 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/homeworkapp/admin/parent/add.php on line 178
+[13-Feb-2019 17:49:12 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[14-Feb-2019 15:22:57 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[14-Feb-2019 15:30:28 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[14-Feb-2019 17:31:20 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[14-Feb-2019 18:36:56 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 62
+[14-Feb-2019 18:37:53 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 62
+[14-Feb-2019 18:43:49 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 62
+[14-Feb-2019 18:46:17 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[14-Feb-2019 18:47:39 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[14-Feb-2019 18:49:17 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 62
+[14-Feb-2019 18:50:52 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[14-Feb-2019 19:25:01 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[14-Feb-2019 21:48:17 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:48:17 Asia/Kolkata] PHP Warning:  mysqli_query(): Empty query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:50:13 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:50:13 Asia/Kolkata] PHP Warning:  mysqli_query(): Empty query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:50:13 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:50:13 Asia/Kolkata] PHP Warning:  mysqli_query(): Empty query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:52:22 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:52:22 Asia/Kolkata] PHP Warning:  mysqli_query(): Empty query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:52:22 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:52:22 Asia/Kolkata] PHP Warning:  mysqli_query(): Empty query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:52:22 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:52:22 Asia/Kolkata] PHP Warning:  mysqli_query(): Empty query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:54:33 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:54:33 Asia/Kolkata] PHP Warning:  mysqli_query(): Empty query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:54:33 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:54:33 Asia/Kolkata] PHP Warning:  mysqli_query(): Empty query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:54:33 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:54:33 Asia/Kolkata] PHP Warning:  mysqli_query(): Empty query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:55:10 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:55:10 Asia/Kolkata] PHP Warning:  mysqli_query(): Empty query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:55:10 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:55:10 Asia/Kolkata] PHP Warning:  mysqli_query(): Empty query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:55:10 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 21:55:10 Asia/Kolkata] PHP Warning:  mysqli_query(): Empty query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 22:02:09 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 22:02:09 Asia/Kolkata] PHP Warning:  mysqli_query(): Empty query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 22:02:09 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 22:02:09 Asia/Kolkata] PHP Warning:  mysqli_query(): Empty query in /home/myidfgbs/public_html/apps/admin/parent/import.php on line 45
+[14-Feb-2019 22:10:17 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[14-Feb-2019 22:13:08 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 62
+[14-Feb-2019 22:13:33 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 62
+[14-Feb-2019 22:14:29 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[15-Feb-2019 14:21:43 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[15-Feb-2019 14:47:08 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[15-Feb-2019 15:48:04 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.ptechsms.co.in/app/smsapi/index.php?username=myideal&amp;password=123456&amp;campaign=6681&amp;routeid=100636&amp;type=text&amp;contacts=6200737375&amp;senderid=MISAPP&amp;msg=Download+Janki+Vidya+Niketan+Mobile+App+on+MIS+Parent+App-+%0A+https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dschool.myideal.intel.myidealschool+%0A+%0A+Sign+in+and+get+School+Activities+%0A+School+ID-+59+%0A++Mobile+No.-6200737375%0D+%0A+Password+-6200737375%0D+%0A+%0A+Read+Guideline+-+www.myidealschoolapp.com%2Fparentappguide.pdf): failed to open stream: HTTP request failed!  in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 52
+[15-Feb-2019 15:50:05 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.ptechsms.co.in/app/smsapi/index.php?username=myideal&amp;password=123456&amp;campaign=6681&amp;routeid=100636&amp;type=text&amp;contacts=6204699345&amp;senderid=MISAPP&amp;msg=Download+Janki+Vidya+Niketan+Mobile+App+on+MIS+Parent+App-+%0A+https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dschool.myideal.intel.myidealschool+%0A+%0A+Sign+in+and+get+School+Activities+%0A+School+ID-+59+%0A++Mobile+No.-6204699345+%0A+Password+-6204699345+%0A+%0A+Read+Guideline+-+www.myidealschoolapp.com%2Fparentappguide.pdf): failed to open stream: HTTP request failed!  in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 52
+[15-Feb-2019 15:50:05 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[15-Feb-2019 15:50:05 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 62
+[15-Feb-2019 18:04:05 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[15-Feb-2019 18:09:57 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 62
+[15-Feb-2019 18:24:16 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 11:24:48 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 12:01:31 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:06:17 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:06:30 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:06:47 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:06:59 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:07:16 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:07:28 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:07:53 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:07:53 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 62
+[16-Feb-2019 13:08:07 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 62
+[16-Feb-2019 13:08:42 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:08:54 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:09:14 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:10:05 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:10:35 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:11:05 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:11:28 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:11:39 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:31:05 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:31:17 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:31:28 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:32:10 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:32:25 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:33:17 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:33:28 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:33:45 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:33:55 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:36:10 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:36:49 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:38:07 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:40:25 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:40:43 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:40:58 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:41:10 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:41:32 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:41:45 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:41:57 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:42:12 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:42:23 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 13:42:34 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 14:40:23 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 14:47:42 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 14:51:52 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 14:52:15 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 14:52:36 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 14:52:48 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 14:53:00 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 14:55:24 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 14:55:37 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 14:55:49 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 14:56:19 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 14:56:46 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 14:57:03 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 14:58:51 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.ptechsms.co.in/app/smsapi/index.php?username=myideal&amp;password=123456&amp;campaign=6681&amp;routeid=100636&amp;type=text&amp;contacts=7903726178&amp;senderid=MISAPP&amp;msg=Download+Janki+Vidya+Niketan+Mobile+App+on+MIS+Parent+App-+%0A+https%3A%2F%2Fgoo.gl%2FQ5LgFp+%0A+%0A+Sign+in-+%0A+School+ID-+59+%0A++Mobile+No.-7903726178+%0A+Password+-7903726178+%0A+%0A+Read+Guideline+-+https%3A%2F%2Fgoo.gl%2FZBPb4Z): failed to open stream: HTTP request failed!  in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 52
+[16-Feb-2019 14:58:51 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 14:58:51 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 62
+[16-Feb-2019 14:58:51 Asia/Kolkata] PHP Notice:  Undefined variable: ex2 in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 62
+[16-Feb-2019 15:00:13 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 15:00:26 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 15:00:38 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 15:02:35 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 15:02:48 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 15:06:26 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 15:06:49 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 15:07:12 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 15:07:29 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 15:07:49 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 15:07:59 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 15:08:24 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 15:08:40 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 15:09:01 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 15:09:17 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 15:09:29 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 15:09:42 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 15:09:57 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 15:10:10 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 15:10:30 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178
+[16-Feb-2019 15:10:43 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/apps/admin/parent/add.php on line 178

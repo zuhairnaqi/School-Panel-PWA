@@ -1,0 +1,87 @@
+[09-Dec-2018 10:23:53 Asia/Kolkata] PHP Notice:  Undefined index: submissiondate in /home/ipmstczh/dwwapps.com/dwwhomework/admin/homework/view.php on line 109
+[31-Dec-2018 14:03:58 Asia/Kolkata] PHP Notice:  Undefined index: submissiondate in /home/ipmstczh/dwwapps.com/dwwhomework/admin/homework/view.php on line 109
+[31-Dec-2018 14:08:05 Asia/Kolkata] PHP Notice:  Undefined index: submissiondate in /home/ipmstczh/dwwapps.com/dwwhomework/admin/homework/view.php on line 109
+[31-Dec-2018 15:24:27 Asia/Kolkata] PHP Notice:  Undefined index: submissiondate in /home/ipmstczh/dwwapps.com/dwwhomework/admin/homework/view.php on line 109
+[31-Dec-2018 15:24:42 Asia/Kolkata] PHP Notice:  Undefined index: submissiondate in /home/ipmstczh/dwwapps.com/dwwhomework/admin/homework/view.php on line 109
+[31-Dec-2018 15:24:59 Asia/Kolkata] PHP Notice:  Undefined index: submissiondate in /home/ipmstczh/dwwapps.com/dwwhomework/admin/homework/view.php on line 109
+[01-Jan-2019 18:22:34 Asia/Kolkata] PHP Notice:  Undefined index: submissiondate in /home/ipmstczh/dwwapps.com/dwwhomework/admin/homework/view.php on line 109
+[03-Jan-2019 09:47:47 Asia/Kolkata] PHP Notice:  Undefined index: submissiondate in /home/ipmstczh/dwwapps.com/dwwhomework/admin/homework/view.php on line 109
+[03-Jan-2019 09:48:16 Asia/Kolkata] PHP Notice:  Undefined index: submissiondate in /home/ipmstczh/dwwapps.com/dwwhomework/admin/homework/view.php on line 109
+[03-Jan-2019 09:48:34 Asia/Kolkata] PHP Notice:  Undefined index: submissiondate in /home/ipmstczh/dwwapps.com/dwwhomework/admin/homework/view.php on line 109
+[06-Jan-2019 22:05:31 Asia/Kolkata] PHP Notice:  Undefined index: submissiondate in /home/ipmstczh/dwwapps.com/dwwhomework/admin/homework/view.php on line 109
+[06-Jan-2019 22:06:09 Asia/Kolkata] PHP Notice:  Undefined index: submissiondate in /home/ipmstczh/dwwapps.com/dwwhomework/admin/homework/view.php on line 109
+[12-Jan-2019 19:52:39 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/myidfgbs/public_html/app/admin/homework/list.php on line 199
+[12-Jan-2019 19:52:45 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/myidfgbs/public_html/app/admin/homework/list.php on line 199
+[12-Jan-2019 19:53:08 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/myidfgbs/public_html/app/admin/homework/list.php on line 199
+[12-Jan-2019 19:53:35 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/myidfgbs/public_html/app/admin/homework/list.php on line 199
+[12-Jan-2019 19:53:53 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/myidfgbs/public_html/app/admin/homework/list.php on line 199
+[13-Jan-2019 23:40:25 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/app/admin/homework/list.php on line 199
+[17-Jan-2019 20:15:59 Asia/Kolkata] PHP Notice:  Undefined variable: homeworkdate in /home/myidfgbs/public_html/app/admin/homework/add.php on line 30
+[17-Jan-2019 20:17:22 Asia/Kolkata] PHP Notice:  Undefined variable: homeworkdate in /home/myidfgbs/public_html/app/admin/homework/add.php on line 30
+[17-Jan-2019 11:52:28 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/add.php on line 301
+[17-Jan-2019 11:52:34 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/add.php on line 301
+[17-Jan-2019 11:52:37 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/add.php on line 301
+[17-Jan-2019 11:52:37 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/add.php on line 301
+[17-Jan-2019 11:52:37 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/add.php on line 301
+[17-Jan-2019 11:52:37 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/add.php on line 301
+[17-Jan-2019 11:52:45 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/add.php on line 301
+[17-Jan-2019 11:53:04 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/add.php on line 301
+[17-Jan-2019 11:53:08 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/add.php on line 301
+[17-Jan-2019 11:53:28 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/add.php on line 301
+[17-Jan-2019 11:54:55 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/add.php on line 301
+[17-Jan-2019 11:56:23 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/add.php on line 303
+[17-Jan-2019 22:33:09 Asia/Kolkata] PHP Notice:  Undefined variable: classId in /home/myidfgbs/public_html/app/admin/homework/add.php on line 42
+[17-Jan-2019 22:41:57 Asia/Kolkata] PHP Notice:  Undefined variable: classId in /home/myidfgbs/public_html/app/admin/homework/add.php on line 42
+[17-Jan-2019 22:44:13 Asia/Kolkata] PHP Notice:  Undefined variable: classId in /home/myidfgbs/public_html/app/admin/homework/add.php on line 42
+[17-Jan-2019 22:45:31 Asia/Kolkata] PHP Notice:  Undefined variable: classId in /home/myidfgbs/public_html/app/admin/homework/add.php on line 42
+[17-Jan-2019 22:47:12 Asia/Kolkata] PHP Notice:  Undefined variable: classId in /home/myidfgbs/public_html/app/admin/homework/add.php on line 42
+[17-Jan-2019 22:47:54 Asia/Kolkata] PHP Notice:  Undefined variable: classId in /home/myidfgbs/public_html/app/admin/homework/add.php on line 42
+[17-Jan-2019 22:50:41 Asia/Kolkata] PHP Notice:  Undefined variable: classId in /home/myidfgbs/public_html/app/admin/homework/add.php on line 43
+[17-Jan-2019 12:32:00 America/New_York] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/myidfgbs/public_html/app/config.php on line 10
+[19-Jan-2019 11:36:45 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/myidfgbs/public_html/app/admin/homework/add.php on line 79
+[19-Jan-2019 01:28:55 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/addhomework.php on line 269
+[19-Jan-2019 01:29:00 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/addhomework.php on line 269
+[19-Jan-2019 01:29:14 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/addhomework.php on line 269
+[19-Jan-2019 01:29:23 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/addhomework.php on line 269
+[19-Jan-2019 01:29:26 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/addhomework.php on line 269
+[19-Jan-2019 01:29:26 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/addhomework.php on line 269
+[19-Jan-2019 01:29:26 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/addhomework.php on line 269
+[19-Jan-2019 01:29:26 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/addhomework.php on line 269
+[19-Jan-2019 01:29:26 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/addhomework.php on line 269
+[19-Jan-2019 01:29:27 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/addhomework.php on line 269
+[19-Jan-2019 01:31:36 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/addhomework.php on line 269
+[19-Jan-2019 01:32:02 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/addhomework.php on line 269
+[19-Jan-2019 01:32:59 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/addhomework.php on line 270
+[19-Jan-2019 01:33:02 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/addhomework.php on line 270
+[19-Jan-2019 01:34:28 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/myidfgbs/public_html/app/admin/homework/addhomework.php on line 270
+[25-Jan-2019 23:21:44 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/myidfgbs/public_html/app/admin/homework/add.php on line 51
+[25-Jan-2019 23:21:44 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '../../assets/uploads/homework/Hindu-Calendar-2018.pdf' is not a valid JPEG file in /home/myidfgbs/public_html/app/admin/homework/add.php on line 51
+[25-Jan-2019 23:21:44 Asia/Kolkata] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home/myidfgbs/public_html/app/admin/homework/add.php on line 54
+[28-Jan-2019 16:42:23 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/app/admin/homework/list.php on line 199
+[28-Jan-2019 17:05:50 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/app/admin/homework/list.php on line 199
+[28-Jan-2019 18:51:13 Asia/Kolkata] PHP Notice:  Undefined variable: upload_img in /home/myidfgbs/public_html/app/admin/homework/add.php on line 105
+[30-Jan-2019 11:09:45 Asia/Kolkata] PHP Notice:  Undefined variable: upload_img in /home/myidfgbs/public_html/apps/admin/homework/add.php on line 105
+[30-Jan-2019 17:29:47 Asia/Kolkata] PHP Notice:  Undefined variable: upload_img in /home/myidfgbs/public_html/apps/admin/homework/add.php on line 105
+[07-Feb-2019 16:01:27 Asia/Kolkata] PHP Notice:  Undefined variable: school in /home/myidfgbs/public_html/apps/admin/homework/add.php on line 4
+[08-Feb-2019 13:35:16 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/apps/admin/homework/list.php on line 202
+[15-Feb-2019 10:43:12 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/apps/admin/homework/list.php on line 193
+[17-Feb-2019 16:48:25 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/myidfgbs/public_html/apps/admin/homework/add.php on line 52
+[17-Feb-2019 16:48:25 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '../../assets/uploads/homework/Class- One.pdf' is not a valid JPEG file in /home/myidfgbs/public_html/apps/admin/homework/add.php on line 52
+[17-Feb-2019 16:48:25 Asia/Kolkata] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home/myidfgbs/public_html/apps/admin/homework/add.php on line 55
+[17-Feb-2019 16:49:20 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/myidfgbs/public_html/apps/admin/homework/add.php on line 52
+[17-Feb-2019 16:49:20 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '../../assets/uploads/homework/CLASS two.pdf' is not a valid JPEG file in /home/myidfgbs/public_html/apps/admin/homework/add.php on line 52
+[17-Feb-2019 16:49:20 Asia/Kolkata] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home/myidfgbs/public_html/apps/admin/homework/add.php on line 55
+[17-Feb-2019 16:49:58 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/myidfgbs/public_html/apps/admin/homework/add.php on line 52
+[17-Feb-2019 16:49:58 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '../../assets/uploads/homework/CLASS-THREE.pdf' is not a valid JPEG file in /home/myidfgbs/public_html/apps/admin/homework/add.php on line 52
+[17-Feb-2019 16:49:58 Asia/Kolkata] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home/myidfgbs/public_html/apps/admin/homework/add.php on line 55
+[17-Feb-2019 16:50:35 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/myidfgbs/public_html/apps/admin/homework/add.php on line 52
+[17-Feb-2019 16:50:35 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '../../assets/uploads/homework/CLASS-FOUR.pdf' is not a valid JPEG file in /home/myidfgbs/public_html/apps/admin/homework/add.php on line 52
+[17-Feb-2019 16:50:35 Asia/Kolkata] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home/myidfgbs/public_html/apps/admin/homework/add.php on line 55
+[17-Feb-2019 16:51:22 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/myidfgbs/public_html/apps/admin/homework/add.php on line 52
+[17-Feb-2019 16:51:22 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '../../assets/uploads/homework/class five.pdf' is not a valid JPEG file in /home/myidfgbs/public_html/apps/admin/homework/add.php on line 52
+[17-Feb-2019 16:51:22 Asia/Kolkata] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home/myidfgbs/public_html/apps/admin/homework/add.php on line 55
+[17-Feb-2019 07:19:50 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'myidfgbs_homeworkapp'@'localhost' (using password: YES) in /home/myidfgbs/public_html/apps/config.php on line 10
+[17-Feb-2019 07:19:55 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'myidfgbs_homeworkapp'@'localhost' (using password: YES) in /home/myidfgbs/public_html/apps/config.php on line 10
+[17-Feb-2019 07:20:02 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'myidfgbs_homeworkapp'@'localhost' (using password: YES) in /home/myidfgbs/public_html/apps/config.php on line 10
+[17-Feb-2019 07:20:34 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'myidfgbs_homeworkapp'@'localhost' (using password: YES) in /home/myidfgbs/public_html/apps/config.php on line 10
+[25-Feb-2019 22:10:24 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/myidfgbs/public_html/apps/admin/homework/list.php on line 193
